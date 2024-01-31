@@ -49,6 +49,7 @@ header > p{
     color: white;
     max-width: 600px;
     margin: auto;
+    padding-bottom: 25px;
 }
 nav{
     background-color: var(--cor5);
